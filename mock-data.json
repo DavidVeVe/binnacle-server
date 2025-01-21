@@ -36,7 +36,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Jess",
     "currentServices": [
       {
@@ -48,7 +48,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Ann",
     "currentServices": [
       {
@@ -61,6 +61,54 @@
   },
   {
     "id": 5,
+    "name": "Sophie",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Ann",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sophie",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ann",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 9,
     "name": "Sophie",
     "currentServices": [
       {
