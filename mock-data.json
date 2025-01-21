@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Abril",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      },
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "20:00",
+        "price": 500
+      },
+      {
+        "date": "10-Aug-2010",
+        "startHour": "20:00",
+        "endHour": "20:30",
+        "price": 150
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Donna",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jess",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Ann",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sophie",
+    "currentServices": [
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "19:00",
+        "price": 200
+      }
+    ]
+  }
+]
