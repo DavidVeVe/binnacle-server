@@ -9,11 +9,15 @@ App.use(express.json());
 App.use(express.urlencoded({ extended: true }));
 
 App.get("/", (req, res) => {
-  return new Promise((resolve, rej) => {
-    setTimeout(() => {
-      res.status(200).json({ data: mockData });
-    }, 2000);
-  });
+  res.status(200).json({ data: mockData });
+});
+
+App.get("/profile/:profileId", (req, res) => {
+  const selectedProfile = mockData.find(
+    (item) => item.id === +req.params.profileId
+  );
+
+  res.status(200).json({ data: selectedProfile });
 });
 
 App.listen(port, () => console.log(`Appr running on port ${port}`));

@@ -30,14 +30,20 @@
       {
         "date": "10-Aug-2010",
         "startHour": "18:00",
-        "endHour": "19:00",
+        "endHour": "20:00",
+        "price": 500
+      },
+      {
+        "date": "10-Aug-2010",
+        "startHour": "18:00",
+        "endHour": "18:30",
         "price": 200
       }
     ]
   },
   {
     "id": 3,
-    "name": "Jess",
+    "name": "Cindy",
     "currentServices": [
       {
         "date": "10-Aug-2010",
@@ -49,19 +55,37 @@
   },
   {
     "id": 4,
-    "name": "Ann",
+    "name": "Gloria",
     "currentServices": [
       {
         "date": "10-Aug-2010",
         "startHour": "18:00",
         "endHour": "19:00",
         "price": 200
+      },
+      {
+        "date": "10-Aug-2010",
+        "startHour": "19:00",
+        "endHour": "21:00",
+        "price": 700
+      },
+      {
+        "date": "10-Aug-2010",
+        "startHour": "21:00",
+        "endHour": "22:30",
+        "price": 400
+      },
+      {
+        "date": "10-Aug-2010",
+        "startHour": "23:00",
+        "endHour": "00:00",
+        "price": 200
       }
     ]
   },
   {
     "id": 5,
-    "name": "Sophie",
+    "name": "Tam",
     "currentServices": [
       {
         "date": "10-Aug-2010",
@@ -73,7 +97,7 @@
   },
   {
     "id": 6,
-    "name": "Ann",
+    "name": "Chloe",
     "currentServices": [
       {
         "date": "10-Aug-2010",
@@ -85,7 +109,7 @@
   },
   {
     "id": 7,
-    "name": "Sophie",
+    "name": "Hayle",
     "currentServices": [
       {
         "date": "10-Aug-2010",
@@ -97,19 +121,25 @@
   },
   {
     "id": 8,
-    "name": "Ann",
+    "name": "Ginna",
     "currentServices": [
       {
         "date": "10-Aug-2010",
-        "startHour": "18:00",
-        "endHour": "19:00",
+        "startHour": "15:00",
+        "endHour": "16:00",
         "price": 200
+      },
+      {
+        "date": "10-Aug-2010",
+        "startHour": "16:00",
+        "endHour": "19:00",
+        "price": 700
       }
     ]
   },
   {
     "id": 9,
-    "name": "Sophie",
+    "name": "Karla",
     "currentServices": [
       {
         "date": "10-Aug-2010",
