@@ -22,6 +22,7 @@ App.get("/profile/:profileId", (req, res) => {
 
 App.post("/profile/:profileId/addService", (req, res) => {
   const data = req?.body;
+  console.log(data)
   const selectedProfileIndex = mockData.findIndex(
     (profile) => profile.id === +data.id
   );
